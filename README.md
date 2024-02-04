@@ -26,7 +26,11 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react" />
+    <img src="https://skillicons.dev/icons?i=js,ts" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://skillicons.dev">
